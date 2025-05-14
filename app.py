@@ -4,7 +4,7 @@ import pandas as pd
 import io
 
 # Укажите URL вашего FastAPI-бэкенда
-BACKEND_URL = "https://coordinate-converter.onrender.com/convert "  # замените на свой URL
+BACKEND_URL = "https://backservice-l6s9.onrender.com/convert "
 
 st.set_page_config(page_title="🌍 Конвертер координат", layout="centered")
 
